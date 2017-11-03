@@ -25,13 +25,20 @@
 }
 /*Uhr fix*/
 #dv-settings-panel {
-	border-top: 2px solid #212121 !important;
+    border-top: 2px solid #212121 !important;
     border-left: 2px solid #212121 !important;
     border-right: 2px solid #212121 !important;
     border-bottom: 2px solid #212121 !important;
     background: #19191B;
     display: none;
     top: -74px;
+}
+.theme-dark .inner-3if5cm {
+    border-left: 0px solid #212121 !important;
+    border-right: 0px solid #212121 !important;
+}
+.container-iksrDt{
+    border-right: 2px solid #212121;
 }
 .dv-btn {
     right: 2px;
@@ -44,7 +51,7 @@
     height: calc(100% - -23px);
 }
 .channel-members::after{
-   visibility: hidden;
+    visibility: hidden;
 }
 #dv-btn::after {
     visibility: hidden;
@@ -54,8 +61,9 @@
 }
 #dv-container {
     background: transparent;
-        height: 72px !important;
+    height: 72px !important;
     border-top: 2px solid #212121 !important;
+    border-left: 2px solid #212121;
 }
 
 /*Trennstrich*/
