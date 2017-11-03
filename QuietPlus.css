@@ -62,3 +62,31 @@
 .container-iksrDt {
     width: calc(100% - 20px) !important;
 }
+.accountDetails-15i-_e .discriminator {
+    right: 5px;
+    top: -50px;
+    margin-top: -27px;
+    position: initial;
+}
+.accountDetails-15i-_e {
+    position: initial;
+    right: 0px;
+    bottom: 0px;
+    max-width: 85px !important;
+    min-width: 0px !important;
+}
+.accountDetails-15i-_e .username {
+    display: inline-block;
+    top: -20px;
+    font-family: inherit;
+    font-size: 100%;
+    margin-top: -30px;
+    font-style: inherit;
+    border-top-width: medium;
+    font-weight: inherit;
+    line-height: 70px;
+    color: var(--main-color) !important;
+    margin-bottom: 0px;
+    min-width: 0%;
+    text-align: center;
+}
