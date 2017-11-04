@@ -9,7 +9,7 @@
 
 /*Quiet help fenster*/
 :root {
-    --version-content: "" !important;
+    --version-content: "7.3" !important;
     --theme-name: "ZockerCraft" !important;
     --theme-letter: "Q";
 }
