@@ -10,7 +10,7 @@
 /*Quiet help fenster*/
 :root {
     --version-content: "" !important;
-    --theme-name: "ZockerCraft test" !important;
+    --theme-name: "ZockerCraft" !important;
     --theme-letter: "Q";
 }
 .need-help-modal .header h1::after {
