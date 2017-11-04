@@ -1,0 +1,87 @@
+:root{
+--main-color:#6A88CA !important;
+--hover-color:#556DA2 !important;
+--notification-color: #787878 ! important; 
+}
+.justifyCenter-29N31w {
+   margin-top: 4px !important;
+}
+
+/*Quiet help fenster*/
+:root {
+    --version-content: "" !important;
+    --theme-name: "ZockerCraft" !important;
+    --theme-letter: "Q";
+}
+.need-help-modal .header h1::after {
+    content: var(--theme-name)" " var(--version-content) !important;
+}
+.need-help-modal .form-inner.loading::after {
+    content: "C\0332 r\0332 e\0332 a\0332 t\0332 o\0332 r\0332 :\A Dragon0697#1188 \A\A P\0332 e\0332 r\0332 s\0332 o\0332 n\0332 a\0332 l\0332 S\0332 e\0332 r\0332 v\0332 e\0332 r\0332:\A discord.me/Zanrux \A\A D\0332 o\0332 n\0332 a\0332 t\0332 i\0332 o\0332 n\0332:\A paypal.me/PascalFrey \A\A C\0332 r\0332 e\0332 d\0332 i\0332 t\0332 s\0332:\A → Nils#2627 (Helper)" !important;
+}
+
+.need-help-modal .footer::after {
+    content: "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0Need help? Visit https://ZockerCraft.net" !important;
+}
+/*Uhr fix*/
+#dv-settings-panel {
+    border-top: 2px solid #212121 !important;
+    border-left: 2px solid #212121 !important;
+    border-right: 2px solid #212121 !important;
+    border-bottom: 2px solid #212121 !important;
+    background: #19191B;
+    display: none;
+    top: -74px;
+}
+.theme-dark .inner-3if5cm {
+    border-left: 0px solid #212121 !important;
+    border-right: 0px solid #212121 !important;
+}
+.container-iksrDt{
+    border-right: 2px solid #212121;
+}
+.dv-btn {
+    right: 2px;
+    top: 0px;
+}
+.channel-members-wrap .channel-members {
+    height: calc(100% - 95px);
+}
+.channel-members-wrap .scrollerWrap-2uBjct {
+    height: calc(100% - -23px);
+}
+.channel-members::after{
+    visibility: hidden;
+}
+#dv-btn::after {
+    visibility: hidden;
+}
+#dv-container::after {
+    background: transparent !important;
+}
+#dv-container {
+    background: transparent;
+    height: 72px !important;
+    border-top: 2px solid #212121 !important;
+    border-left: 2px solid #212121;
+}
+
+/*Trennstrich*/
+.container-iksrDt {
+    width: calc(100% - 20px) !important;
+}
+/*Betterdc css fix*/
+#bd-customcss-attach-controls .checkbox-group {
+    margin-left: 220px !important;
+}
+#bd-customcss-detach-container div#bd-customcss-detach-controls-button {
+    margin-left: 136px !important;
+}
+#bd-customcss-detach-container #bd-customcss-attach-controls {
+    border-left: 2px solid #212121 !important;
+}
+/*Revert account details text */
+#app-mount .accountDetails-15i-_e { position:unset !important; min-width:unset !important; bottom:0px !important; }
+#app-mount .accountDetails-15i-_e .username { margin-left: unset !important; border: none !important; font-family:Whitney,Helvetica Neue,Helvetica,Arial,sans-serif !important; font-size:15px !important; font-weight:400 !important; color:white !important; text-align:unset !important; height:30px!important; line-height:10px!important; }
+.accountDetails-15i-_e .discriminator {display: inline block !important; font-size: 12px !important; position: unset !important;}
+/*i dont get it FUCK*/
