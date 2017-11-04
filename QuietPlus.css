@@ -80,3 +80,14 @@
 #bd-customcss-detach-container #bd-customcss-attach-controls {
     border-left: 2px solid #212121 !important;
 }
+#app-mount .accountDetails-15i-_e .username {
+    margin-left: unset !important;
+    border: none !important;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif !important;
+    font-size: 15px !important;
+    font-weight: 400 !important;
+    color: white !important;
+    text-align: unset !important;
+    height: 30px!important;
+    line-height: 10px!important;
+}
