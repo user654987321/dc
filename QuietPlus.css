@@ -70,4 +70,13 @@
 .container-iksrDt {
     width: calc(100% - 20px) !important;
 }
-/*test Nachricht*/
+/*Betterdc css fix*/
+#bd-customcss-attach-controls .checkbox-group {
+    margin-left: 220px !important;
+}
+#bd-customcss-detach-container div#bd-customcss-detach-controls-button {
+    margin-left: 136px !important;
+}
+#bd-customcss-detach-container #bd-customcss-attach-controls {
+    border-left: 2px solid #212121 !important;
+}
