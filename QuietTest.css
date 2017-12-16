@@ -6,7 +6,17 @@
 .justifyCenter-29N31w {
    margin-top: 4px !important;
 }*/
-
+.winButton-U7zAqI {
+    -webkit-app-region: no-drag;
+    margin-top: 4px;
+    cursor: pointer;
+    height: 22px;
+    opacity: .6;
+    pointer-events: auto;
+    position: relative;
+    top: -4px;
+    width: 28px;
+}
 /*Quiet help fenster*/
 :root {
     --version-content: "7.3" !important;
